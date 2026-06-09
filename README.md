@@ -1,4 +1,5 @@
 # superstore-sales-dashboard
+https://github.com/honeybraham/superstore-sales-dashboard/blob/49acbae308f43acf17e3f4d9a232af4b79b0fde3/dashboard.png
 Excel Sales Performance Dashboard using Pivot Tables, Charts &amp; Slicers
 
 The Project presents an interactive Excel Dashboard which includes the following:
